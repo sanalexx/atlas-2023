@@ -1,0 +1,46 @@
+{
+	"id": -1,
+	"name": "SAW (Stay A Warrior) ",
+	"description": "SAW GG is a professional esports organization and gaming community based in Portugal. The organization has teams competing professionally in video games such as Counter-Strike and Valorant and also a content creator team",
+	"links": {
+		"website": [
+			"https://saw.gg/"
+		],
+		"subreddit": [
+			"SAWgg"
+		],
+		"discord": [
+			"HGRjUjPpAp"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				2,
+				-628
+			],
+			[
+				14,
+				-642
+			],
+			[
+				38,
+				-627
+			],
+			[
+				37,
+				-627
+			],
+			[
+				37,
+				-627
+			]
+		]
+	},
+	"center": {
+		"254": [
+			15,
+			-634
+		]
+	}
+}
