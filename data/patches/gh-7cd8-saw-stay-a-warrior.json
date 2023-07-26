@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "SAW (Stay A Warrior) ",
+	"description": "Leading esports & gaming organization in Portugal.",
+	"links": {
+		"website": [
+			"https://saw.gg/"
+		],
+		"subreddit": [
+			"SAWgg"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				511,
+				350
+			],
+			[
+				501,
+				345
+			],
+			[
+				500,
+				374
+			],
+			[
+				539,
+				346
+			],
+			[
+				503,
+				346
+			],
+			[
+				501,
+				345
+			]
+		]
+	},
+	"center": {
+		"254": [
+			509,
+			358
+		]
+	}
+}
